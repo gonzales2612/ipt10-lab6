@@ -1,0 +1,10 @@
+Order Code: Vo6jqashOC
+Date and Time Ordered: 2024-09-10 12:33:22
+
+Order Items:
+Product ID: 1
+Product Name: 1Kg Sugar
+Price: 100
+Total Price: 100.00
+
+Total Order Price: 100.00 PHP
